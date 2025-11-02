@@ -4,10 +4,15 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/dubbo-demo-api/pom.xml" />
-        <option value="$PROJECT_DIR$/dubbo-demo-provider/pom.xml" />
-        <option value="$PROJECT_DIR$/dubbo-demo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo2-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo2-demo-more/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo2-demo/dubbo-demo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo2-demo/dubbo-demo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo2-demo/dubbo-demo-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo2-demo-more/dubbo-demo-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo2-demo-more/dubbo-demo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo2-demo-more/dubbo-demo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo2-demo-more/dubbo-demo-basics/pom.xml" />
       </list>
     </option>
   </component>
