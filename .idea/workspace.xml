@@ -2,42 +2,33 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="dubbo-demo-consumer:war" />
-      <artifact name="dubbo-demo-provider:war" />
+      <artifact name="dubbo2-demo-consumer:war" />
+      <artifact name="dubbo2-demo-provider:war" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69a9351d-95a7-46cb-a37c-b8daa06f7f96" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/dubbo2-demo-more/dubbo-demo-basics/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo2-demo/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="69a9351d-95a7-46cb-a37c-b8daa06f7f96" name="更改" comment="dubbo2-demo-more">
+      <change afterPath="$PROJECT_DIR$/dubbo2-demo-boot/dubbo-demo-provider/src/main/java/com/demo/provider/ProviderApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-demo-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo2-demo/dubbo-demo-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-demo-api/src/main/java/com/demo/api/TraceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo2-demo/dubbo-demo-api/src/main/java/com/demo/api/TraceService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-demo-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo2-demo/dubbo-demo-consumer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-demo-consumer/src/main/java/com/demo/consumer/ConsumerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo2-demo/dubbo-demo-consumer/src/main/java/com/demo/consumer/ConsumerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-demo-consumer/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo2-demo/dubbo-demo-consumer/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-demo-consumer/src/main/resources/log4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo2-demo/dubbo-demo-consumer/src/main/resources/log4j.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-demo-consumer/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo2-demo/dubbo-demo-consumer/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-demo-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo2-demo/dubbo-demo-provider/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-demo-provider/src/main/java/com/demo/provider/ProviderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo2-demo/dubbo-demo-provider/src/main/java/com/demo/provider/ProviderApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-demo-provider/src/main/java/com/demo/provider/service/TraceServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo2-demo/dubbo-demo-provider/src/main/java/com/demo/provider/service/TraceServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo2-demo/dubbo-demo-provider/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/log4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo2-demo/dubbo-demo-provider/src/main/resources/log4j.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-demo-provider/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo2-demo/dubbo-demo-provider/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo2-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo2-demo-more/dubbo-demo-basics/src/main/java/com/demo/basics/service/BasicsTraceServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo2-demo-more/dubbo-demo-basics/src/main/java/com/demo/basics/service/BasicsTraceServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo2-demo-more/dubbo-demo-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo2-demo-more/dubbo-demo-provider/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,8 +59,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.ConsumerApplication-dubbo2.executor": "Run",
+    "Spring Boot.ConsumerApplication.executor": "Run",
+    "Spring Boot.ProviderApplication-dubbo2.executor": "Run",
+    "Spring Boot.ProviderApplication.executor": "Run",
     "Tomcat 服务器.dubbo2-demo-more.executor": "Run",
     "Tomcat 服务器.dubbo2-demo.executor": "Run",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
@@ -77,7 +76,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "D:/project/java/dubbo-demo/dubbo2-demo-more",
+    "last_opened_file_path": "D:/project/java/dubbo-demo/dubbo2-demo-boot/dubbo-demo-consumer/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -86,37 +85,76 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.32068965",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\java\dubbo-demo\dubbo2-demo-boot\dubbo-demo-consumer\src\main\resources" />
+      <recent name="D:\project\java\dubbo-demo" />
       <recent name="D:\project\java\dubbo-demo\dubbo2-demo-more" />
       <recent name="D:\project\java\dubbo-demo\dubbo2-demo-more\dubbo-demo-basics\src\main" />
       <recent name="D:\project\java\dubbo-demo\dubbo2-demo-more\dubbo-demo-basics\src\main\resources" />
-      <recent name="D:\project\java\dubbo-demo\dubbo2-demo-more\dubbo-demo-basics\src\main\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.demo.api" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat 服务器.dubbo2-demo-more">
+  <component name="RunManager" selected="Spring Boot.ConsumerApplication-dubbo2">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="dubbo2-demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="dubbo2-demo" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ConsumerApplication-dubbo2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="dubbo2-demo-consumer-boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.consumer.ConsumerApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderApplication-dubbo2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="dubbo2-demo-provider-boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.provider.ProviderApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="dubbo2-demo-more" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.109" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="dubbo-demo-basics:war">
+        <artifact name="dubbo2-demo-basics:war">
           <settings>
-            <option name="CONTEXT_PATH" value="/dubbo-demo-basics" />
+            <option name="CONTEXT_PATH" value="/dubbo2-demo-basics" />
           </settings>
         </artifact>
-        <artifact name="dubbo-demo-provider-more:war">
+        <artifact name="dubbo2-demo-provider-more:war">
           <settings>
-            <option name="CONTEXT_PATH" value="/dubbo-demo-provider" />
+            <option name="CONTEXT_PATH" value="/dubbo2-demo-provider" />
           </settings>
         </artifact>
-        <artifact name="dubbo-demo-consumer-more:war">
+        <artifact name="dubbo2-demo-consumer-more:war">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
@@ -196,9 +234,9 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="dubbo-demo-basics:war" />
-          <artifact name="dubbo-demo-provider-more:war" />
-          <artifact name="dubbo-demo-consumer-more:war" />
+          <artifact name="dubbo2-demo-basics:war" />
+          <artifact name="dubbo2-demo-provider-more:war" />
+          <artifact name="dubbo2-demo-consumer-more:war" />
         </option>
       </method>
     </configuration>
@@ -206,12 +244,12 @@
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="dubbo-demo-provider:war">
+        <artifact name="dubbo2-demo-provider:war">
           <settings>
-            <option name="CONTEXT_PATH" value="/dubbo-demo-provider" />
+            <option name="CONTEXT_PATH" value="/dubbo2-demo-provider" />
           </settings>
         </artifact>
-        <artifact name="dubbo-demo-consumer:war">
+        <artifact name="dubbo2-demo-consumer:war">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
@@ -291,15 +329,23 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="dubbo-demo-provider:war" />
-          <artifact name="dubbo-demo-consumer:war" />
+          <artifact name="dubbo2-demo-provider:war" />
+          <artifact name="dubbo2-demo-consumer:war" />
         </option>
       </method>
     </configuration>
     <list>
+      <item itemvalue="Spring Boot.ConsumerApplication-dubbo2" />
+      <item itemvalue="Spring Boot.ProviderApplication-dubbo2" />
       <item itemvalue="Tomcat 服务器.dubbo2-demo" />
       <item itemvalue="Tomcat 服务器.dubbo2-demo-more" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ConsumerApplication-dubbo2" />
+        <item itemvalue="Spring Boot.ProviderApplication-dubbo2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -317,11 +363,32 @@
       <option name="presentableId" value="Default" />
       <updated>1762014396243</updated>
       <workItem from="1762014397639" duration="3202000" />
-      <workItem from="1762067105509" duration="569000" />
+      <workItem from="1762067105509" duration="8151000" />
     </task>
+    <task id="LOCAL-00001" summary="dubbo2-demo-more">
+      <option name="closed" value="true" />
+      <created>1762068123878</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762068123878</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dubbo2-demo-more">
+      <option name="closed" value="true" />
+      <created>1762068141671</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762068141671</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dubbo2-demo-more" />
+    <option name="LAST_COMMIT_MESSAGE" value="dubbo2-demo-more" />
   </component>
 </project>

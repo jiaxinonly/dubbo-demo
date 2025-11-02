@@ -6,14 +6,24 @@
       <list>
         <option value="$PROJECT_DIR$/dubbo2-demo/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo2-demo-more/pom.xml" />
-        <option value="$PROJECT_DIR$/dubbo2-demo/dubbo-demo-provider/pom.xml" />
-        <option value="$PROJECT_DIR$/dubbo2-demo/dubbo-demo-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo2-demo/dubbo-demo-api/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo2-demo-more/dubbo-demo-api/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo2-demo-more/dubbo-demo-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo2-demo-more/dubbo-demo-provider/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo2-demo-more/dubbo-demo-basics/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo2-demo-boot/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo2-demo-boot/demo-tesat/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo2-demo/dubbo-demo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo2-demo/dubbo-demo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo2-demo-boot/dubbo-demo-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo2-demo-boot/dubbo-demo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo2-demo-boot/dubbo-demo-provider/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/dubbo2-demo-boot/demo-tesat/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
