@@ -2,22 +2,16 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="dubbo2-demo-consumer:war" />
-      <artifact name="dubbo2-demo-provider:war" />
+      <artifact name="dubbo2-demo-basics:war" />
+      <artifact name="dubbo2-demo-consumer-more:war" />
+      <artifact name="dubbo2-demo-provider-more:war" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69a9351d-95a7-46cb-a37c-b8daa06f7f96" name="更改" comment="dubbo2-demo-more">
-      <change afterPath="$PROJECT_DIR$/dubbo2-demo-boot/dubbo-demo-provider/src/main/java/com/demo/provider/ProviderApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo2-demo-more/dubbo-demo-basics/src/main/java/com/demo/basics/service/BasicsTraceServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo2-demo-more/dubbo-demo-basics/src/main/java/com/demo/basics/service/BasicsTraceServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo2-demo-more/dubbo-demo-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo2-demo-more/dubbo-demo-provider/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="69a9351d-95a7-46cb-a37c-b8daa06f7f96" name="更改" comment="dubbo2-demo-boot" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -363,7 +357,7 @@
       <option name="presentableId" value="Default" />
       <updated>1762014396243</updated>
       <workItem from="1762014397639" duration="3202000" />
-      <workItem from="1762067105509" duration="8151000" />
+      <workItem from="1762067105509" duration="8502000" />
     </task>
     <task id="LOCAL-00001" summary="dubbo2-demo-more">
       <option name="closed" value="true" />
@@ -381,7 +375,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762068141671</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dubbo2-demo-boot">
+      <option name="closed" value="true" />
+      <created>1762075628360</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762075628360</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,6 +391,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dubbo2-demo-more" />
-    <option name="LAST_COMMIT_MESSAGE" value="dubbo2-demo-more" />
+    <MESSAGE value="dubbo2-demo-boot" />
+    <option name="LAST_COMMIT_MESSAGE" value="dubbo2-demo-boot" />
   </component>
 </project>
