@@ -18,7 +18,7 @@
     <dubbo:protocol name="dubbo" port="20881"/>
 
     <!-- 暴露服务 -->
-    <bean id="traceService" class="com.demo.provider.service.TraceServiceImpl"/>
+    <bean id="traceService" class="com.demo.provider.service.BasicsTraceServiceImpl"/>
     <dubbo:service interface="com.demo.api.TraceService" ref="traceService"/>
 
     <!-- 引用远程服务 -->

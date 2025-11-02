@@ -21,7 +21,7 @@
         <!-- 基础服务 -->
         <dependency>
             <groupId>com.demo</groupId>
-            <artifactId>dubbo2-demo-basics</artifactId>
+            <artifactId>dubbo-demo-basics</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
 

@@ -11,6 +11,6 @@ public class TraceServiceImpl implements TraceService {
     private String appName;
     @Override
     public String getTrace(String name) {
-       return appName + " ---> " + name;
+       return name + " ---> " + appName;
     }
 }

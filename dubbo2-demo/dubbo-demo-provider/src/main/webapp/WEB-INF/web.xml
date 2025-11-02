@@ -17,7 +17,7 @@
     <!-- 2. 注册 REST 接口 -->
     <servlet>
         <servlet-name>traceServlet</servlet-name>
-        <servlet-class>com.demo.provider.ProviderApplication</servlet-class>
+        <servlet-class>com.demo.provider.BasicsApplication</servlet-class>
         <load-on-startup>1</load-on-startup>
     </servlet>
     <servlet-mapping>

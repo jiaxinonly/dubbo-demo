@@ -12,3 +12,6 @@
 
 ## dubbo2-demo-boot
 基于dubbo 2.6.12的springboot Java示例代码
+
+## dubbo2-demo-boot
+基于dubbo 2.6.12的springboot 多个服务Java示例代码

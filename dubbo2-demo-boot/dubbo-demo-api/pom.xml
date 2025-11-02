@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.demo</groupId>
-    <artifactId>dubbo-demo-api-boot</artifactId>
+    <artifactId>dubbo-demo-api</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
